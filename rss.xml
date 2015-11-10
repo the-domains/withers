@@ -4,8 +4,15 @@
         <description><![CDATA[Josh Withers]]></description>
         <link>http://withers.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 03:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 03:43:31 GMT</lastBuildDate>
         <atom:link href="http://withers.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Carrie Brownstein & Amy Poehler Officiate Wedding]]></title>
+            <description><![CDATA[<article><h1>Carrie Brownstein & Amy Poehler Officiate Wedding</h1><p>Carrie Brownstein officiates impromptu wedding while Amy Poehler plays the church organ 11/03/15 BTWs If this fills your heart with all kinds of good feelings, share the love: https://www.crowdrise.com/losangelesgayandlesb</p><img src="https://i.ytimg.com/vi/wWFZaeyQZcU/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=wWFZaeyQZcU&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">b2b119eb-4743-4b0a-b54e-9cb94bcb0042</guid>
+            <pubDate>Tue, 10 Nov 2015 03:42:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grinspoon - Just Ace]]></title>
             <description><![CDATA[<article><h1>Grinspoon - Just Ace</h1><img src="https://i.ytimg.com/vi/BJ6dxZd0TTg/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.vanityfair.com/culture/2015/11/the-existential-beauty-of-peanuts</link>
             <guid isPermaLink="false">fe1307e8-8e61-481f-a03d-6b72a6ca4721</guid>
             <pubDate>Tue, 10 Nov 2015 03:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A mother begs "please don't invite my kids to your wedding"]]></title>
-            <description><![CDATA[<article><h1>A mother begs "please don't invite my kids to your wedding"</h1><p>Ali Solomon has a great article on Scary Mummy today, begging brides and grooms to not invite her kids to their wedding. Solomon says "There seems to be a common misconception that I want to spend every waking moment with my children (probably because I spend every waking moment with my children).</p><img src="http://marriedbyjosh.com/wp-content/uploads/2015/11/016.jpg"></article>]]></description>
-            <link>http://marriedbyjosh.com/please-dont-invite-my-kids/</link>
-            <guid isPermaLink="false">39af7a29-5adb-4447-900d-0f542187eebd</guid>
-            <pubDate>Tue, 10 Nov 2015 03:26:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
