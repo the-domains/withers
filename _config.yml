@@ -1,0 +1,23 @@
+name: Withers
+favicon: null
+layout_spectrum: 0.5119660578202456
+typography_spectrum: 0.6198294784408063
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.18884274270385504
+  lightness: 0.19979709130711854
+  saturation: 0.13571325573138893
+  rhythmicContrast: 0.6362550174817443
+purpose: []
