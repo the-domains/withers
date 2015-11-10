@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Josh Withers]]></title>
+        <description><![CDATA[Josh Withers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 Nov 2015 03:26:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A mother begs "please don't invite my kids to your wedding"]]></title>
+            <description><![CDATA[<article><h1>A mother begs "please don't invite my kids to your wedding"</h1><p>Ali Solomon has a great article on Scary Mummy today, begging brides and grooms to not invite her kids to their wedding. Solomon says "There seems to be a common misconception that I want to spend every waking moment with my children (probably because I spend every waking moment with my children).</p><img src="http://marriedbyjosh.com/wp-content/uploads/2015/11/016.jpg"></article>]]></description>
+            <link>http://marriedbyjosh.com/please-dont-invite-my-kids/</link>
+            <guid isPermaLink="false">39af7a29-5adb-4447-900d-0f542187eebd</guid>
+            <pubDate>Tue, 10 Nov 2015 03:26:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
