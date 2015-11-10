@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://popupwed.co'
-  name: The Pop-Up Wedding
-  favicon: 'http://popupwed.co/wp-content/uploads/2015/07/Pop-Up-Wedding-Co-Logo-sqr.png'
-  domain: popupwed.co
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: true
 keywords:
   - puppy-sitter
   - florists
@@ -17,18 +15,22 @@ keywords:
   - laughter
   - stylists
   - venue
-description: "a beautiful intimate ceremony. With vows, laughter and kisses. a heck of a talented photographer! 30 high res photos for you to print as you'd like! a unique venue, that is made over by our team of stylists, hire companies and florists! a fully coordinated day, run by Britt and her team of angels."
-inLanguage: en
+description: 'A beautiful intimate ceremony with vows, laughter and kisses + a heck of a talented photographer! '
+datePublished: '2015-11-10T03:44:37.632Z'
+dateModified: '2015-11-10T03:44:32.662Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://popupwed.co/'
-title: 'The Original Pop-Up Wedding - Australia, Hawaii, Perth, GC'
-datePublished: '2015-11-10T03:43:10.836Z'
-dateModified: '2015-11-10T03:42:21.156Z'
+title: The Pop-Up Wedding Co.
 sourcePath: _posts/2015-11-10-the-original-pop-up-wedding-australia-hawaii-perth-gc.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The Pop-Up Wedding
+  domain: popupwed.co
+  url: 'http://popupwed.co'
+  favicon: 'http://popupwed.co/wp-content/uploads/2015/07/Pop-Up-Wedding-Co-Logo-sqr.png'
+url: the-pop-up-wedding-co/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
