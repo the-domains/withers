@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://nate.audio'
-  name: "Nate's School Pickup Podcast"
-  favicon: null
-  domain: nate.audio
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: 'A podcast with Josh Withers and his cousin Nate. Josh picks up Nate from school and they chat about the day, this is a recording of that conversation.'
+datePublished: '2015-11-10T03:36:21.391Z'
+dateModified: '2015-11-10T03:35:55.430Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://nate.audio/'
 title: "Nate's School Pickup Podcast"
-datePublished: '2015-11-10T03:35:32.249Z'
-dateModified: '2015-11-10T03:34:14.122Z'
+authors: []
+publisher:
+  name: "Nate's School Pickup Podcast"
+  domain: nate.audio
+  url: 'http://nate.audio'
+  favicon: null
 sourcePath: _posts/2015-11-10-nates-school-pickup-podcast.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+url: nates-school-pickup-podcast/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
