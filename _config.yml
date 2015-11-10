@@ -1,6 +1,6 @@
 name: Withers
 favicon: null
-layout_spectrum: 0.5119660578202456
+layout_spectrum: 0.71606
 typography_spectrum: 0.6198294784408063
 title: Josh Withers
 cta:
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#d6caba'
+    - '#151f14'
+    - '#fff9f9'
+    - '#8d7d63'
+    - '#4aa5cf'
   brandStrength: 0.1875
   lightness: 0.19979709130711854
   saturation: 0.13571325573138893
