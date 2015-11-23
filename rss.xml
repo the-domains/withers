@@ -4,7 +4,7 @@
         <description><![CDATA[Josh Withers]]></description>
         <link>http://withers.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 07:17:48 GMT</lastBuildDate>
         <atom:link href="http://withers.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wedding Celebrant]]></title>
@@ -26,6 +26,13 @@
             <link>http://marriedbyjosh.com/why-are-we-all-so-passionate-about-unplugged-weddings/</link>
             <guid isPermaLink="false">6a937223-76ad-4a2f-9353-5ee797e5cfe4</guid>
             <pubDate>Tue, 10 Nov 2015 03:43:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Overthrow Your Boss And Burn Your Company To The Ground]]></title>
+            <description><![CDATA[<article><h1>How To Overthrow Your Boss And Burn Your Company To The Ground</h1><p>Work as we have always known it is done. But that doesn't mean you can stop working. In fact, it's more than likely that you're reading this as you take a short break from your job. Maybe it's 11 p.m.; maybe it's Saturday. Your work is never done, even though work is.</p><img src="http://f.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/05/3046288-poster-p-1-how-to-overthrow-your-boss-and-burn-your-company-to-the-ground.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3046288/the-new-rules-of-work/how-to-overthrow-your-boss-and-burn-your-company-to-the-ground</link>
+            <guid isPermaLink="false">8e861107-a340-409b-994d-413d38ff3138</guid>
+            <pubDate>Tue, 10 Nov 2015 03:42:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
